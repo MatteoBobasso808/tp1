@@ -1,0 +1,15 @@
+Stan Pines,24/01/2020,8
+Soos Ramirez,12/08/2020,12
+Blendin Blandin,02/04/2020,35
+Stan Pines,24/01/2021,11
+Soos Ramirez,31/08/2021,26
+Stan Pines,31/10/2021,152
+Soos Ramirez,30/12/2022,27
+Mabel Pines,22/09/2022,30
+Wendy Corduroy,03/02/2022,38
+Wendy Corduroy,05/05/2023,19
+Stan Pines,01/03/2023,60
+Blendin Blandin,10/04/2023,87
+Soos Ramirez,14/09/2024,22
+Gideon Gleeful,14/12/2024,106
+Blendin Blandin,05/12/2024,143
